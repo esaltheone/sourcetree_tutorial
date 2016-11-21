@@ -14,6 +14,7 @@
 		4AFA7E881DE3053F005CE10A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA7E871DE3053F005CE10A /* Assets.xcassets */; };
 		4AFA7E8B1DE3053F005CE10A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA7E891DE3053F005CE10A /* LaunchScreen.storyboard */; };
 		4AFA7E931DE30727005CE10A /* missle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA7E921DE30727005CE10A /* missle@2x.png */; };
+		4AFA7E951DE34461005CE10A /* boom3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA7E941DE34461005CE10A /* boom3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4AFA7E8A1DE3053F005CE10A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AFA7E8C1DE3053F005CE10A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4AFA7E921DE30727005CE10A /* missle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "missle@2x.png"; path = "../missle@2x.png"; sourceTree = "<group>"; };
+		4AFA7E941DE34461005CE10A /* boom3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boom3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		4AFA7E7B1DE3053F005CE10A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4AFA7E941DE34461005CE10A /* boom3.png */,
 				4AFA7E921DE30727005CE10A /* missle@2x.png */,
 				4AFA7E7C1DE3053F005CE10A /* main.m */,
 			);
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AFA7E8B1DE3053F005CE10A /* LaunchScreen.storyboard in Resources */,
+				4AFA7E951DE34461005CE10A /* boom3.png in Resources */,
 				4AFA7E881DE3053F005CE10A /* Assets.xcassets in Resources */,
 				4AFA7E861DE3053F005CE10A /* Main.storyboard in Resources */,
 				4AFA7E931DE30727005CE10A /* missle@2x.png in Resources */,
